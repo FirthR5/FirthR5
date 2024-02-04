@@ -2,9 +2,7 @@
 
 ### Fernando Fernández Ríos
 #### Software Engineer
-Hello, I'm Fernando from Mexico.
-
-I enjoy doing Web/App.
+Hello, I'm Fernando a Software Engineer who enjoy develop applications and learning more about programming.
 
 Skills: 
 C# / ASP NET / Python Scikit Learn & Keras / Kotlin Android Studio /  JS / Linux Manjaro / Terminal Bash / Powershell
